@@ -1,0 +1,15 @@
+/* ipad */
+@media (width: 768px) {}
+
+/* phone */
+@media (max-width: 768px) {
+    .about .item {
+        margin-top: 10px;
+
+    }
+
+    .services .card {
+        margin-top: 10px;
+    }
+
+}
